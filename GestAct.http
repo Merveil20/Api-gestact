@@ -1,6 +1,6 @@
 @GestAct_HostAddress = http://localhost:5057
 
-GET {{GestAct_HostAddress}}/weatherforecast/
+GET {{GestAct_HostAddress}}
 Accept: application/json
 
 ###
